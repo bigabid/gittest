@@ -4,7 +4,7 @@ this is third line
 amit
 hi
 
-new line
+new line fixed
 
 amit
 foo

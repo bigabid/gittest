@@ -1,6 +1,7 @@
 this is first line
 this is third line
 
+amit
 hi
 
 new line

@@ -1,10 +1,12 @@
 this is first line
 this is third line
 
-amit
+amit attias
 hi
 
 new line fixed 2
 
 amit
 foo
+
+hi what's up?

@@ -1,13 +1,1 @@
-this is first line
-this is third line
-
-amit attias
-hi
-
-new line fixed 2
-
-amit
-foo
-
-hi what's up?
-check
+this is yonatan
